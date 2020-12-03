@@ -1,4 +1,4 @@
-namespace: user8-reverse-words-stage
+namespace: user9-reverse-words-stage
 commonLabels:
   app: reversewords-stage
 bases:
