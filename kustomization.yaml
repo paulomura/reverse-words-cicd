@@ -1,4 +1,4 @@
-namespace: user8-reverse-words-production
+namespace: user9-reverse-words-production
 commonLabels:
   app: reversewords-prod
 bases:
